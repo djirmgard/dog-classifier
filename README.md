@@ -17,7 +17,7 @@ The end result is a model that can be deployed in a web app that takes an image 
 
 ## Data & Libraries
 
-Data used comprises over 13,000 images of humans and over 8,000 images of dogs and were provided by Udacity plus a selection of images provided by me. I used PyTorch to design and train the neural network plus a number of standard libraries such as numpy, PIL, and tgdm to handle the images.
+Data used comprises over 13,000 images of humans and over 8,000 images of dogs and were provided by Udacity plus a selection of images provided by me. I used PyTorch to design and train the neural network plus a number of standard libraries such as numpy, and PIL to handle the images.
 
 ## Content
 
